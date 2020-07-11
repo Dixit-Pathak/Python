@@ -13,8 +13,7 @@
 			"path": "mathematical-operations"
 		},
 		{
-			"name": "Python VS Code",
-			"path": "."
+			"path": "importing-libraries"
 		}
 	],
 	"settings": {}

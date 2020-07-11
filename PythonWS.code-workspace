@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "hello"
+		},
+		{
+			"path": "python-if"
+		},
+		{
+			"path": "format-string"
+		},
+		{
+			"path": "mathematical-operations"
+		},
+		{
+			"name": "Python VS Code",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

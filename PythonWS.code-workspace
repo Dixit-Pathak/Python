@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "python-while"
+		},
+		{
+			"path": "python-lists"
 		}
 	],
 	"settings": {}

@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "python-functions"
+		},
+		{
+			"path": "python-oops"
 		}
 	],
 	"settings": {}

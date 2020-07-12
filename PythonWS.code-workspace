@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "python-lists"
+		},
+		{
+			"path": "python-functions"
 		}
 	],
 	"settings": {}
